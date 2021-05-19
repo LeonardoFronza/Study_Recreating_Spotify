@@ -169,6 +169,11 @@ h3 {
 }
 
 
+/* Botão Carousel */
+
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
 
 /* Resolução com Jquery */
 
